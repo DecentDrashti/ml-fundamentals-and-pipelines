@@ -1,0 +1,10 @@
+# Ignore ML and DL project folders
+project-ml/
+project-dl/
+
+# Python & Jupyter cache files
+__pycache__/
+.ipynb_checkpoints/
+
+# Environment files
+.env
