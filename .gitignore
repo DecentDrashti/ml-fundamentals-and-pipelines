@@ -1,7 +1,7 @@
 # Ignore ML and DL project folders
 project-ml/
 project-dl/
-Lab14
+Lab14(not in git)
 
 # Python & Jupyter cache files
 __pycache__/
