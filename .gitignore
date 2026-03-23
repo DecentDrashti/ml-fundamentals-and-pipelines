@@ -1,10 +1,12 @@
 # Ignore ML and DL project folders
 project-ml/
 project-dl/
+Lab14
 
 # Python & Jupyter cache files
 __pycache__/
 .ipynb_checkpoints/
+*.pdf
 
 # Environment files
 .env
